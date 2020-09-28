@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GreekHoroscope</string>
+    <string name="title_horo">Horoscope 2020</string>
+    <string name="title_favourites">Favourites</string>
+</resources>
